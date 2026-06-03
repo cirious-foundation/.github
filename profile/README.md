@@ -51,6 +51,7 @@ Exploring low-level techniques, memory organization, and efficient execution mod
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day Zero: Introducing the Engineering Philosophy of the Cirious Foundation](https://dev.to/cirious_foundation/day-zero-introducing-the-engineering-philosophy-of-the-cirious-foundation-2pa8)
 <!-- BLOG-POST-LIST:END -->
   
 ---
