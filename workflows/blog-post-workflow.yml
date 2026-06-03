@@ -19,4 +19,4 @@ jobs:
           # Para Medium, use: https://medium.com/feed/@seu_usuario
           # Para Dev.to, use: https://dev.to/feed/cirious_foundation
           feed_list: "https://dev.to/feed/cirious_foundation"
-          readme_path: ".github/profile/README.md"
+          readme_path: "profile/README.md"
