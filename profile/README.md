@@ -48,8 +48,7 @@ Exploring low-level techniques, memory organization, and efficient execution mod
 
 ---
 
-## 📰 Blog Posts
-
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
   
