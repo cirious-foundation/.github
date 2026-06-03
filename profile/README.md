@@ -48,44 +48,56 @@ Exploring low-level techniques, memory organization, and efficient execution mod
 
 ---
 
-## 🛠️ Core Stack
-
-Under the founder's leadership, the ecosystem is centered around systems engineering and modern development workflows:
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" />
-      <br /><b>Rust</b><br />Core Language
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-      <br /><b>Git</b><br />Version Control
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-      <br /><b>Linux</b><br />Primary Platform
-    </td>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-      <br /><b>GitHub Actions</b><br />CI/CD Pipeline
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>📰 Blog Posts</h2>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+  <p><i>Stay tuned for upcoming articles!</i></p>
+</div>
 
 ---
 
-## 📬 Get in Touch
+<div align="center">
+  <h2>📊 Ecosystem Statistics</h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cirious-foundation&" alt="cirious-foundation-streak" />
+  <img src="https://cirious-telemetry-stats.vercel.app/api?username=cirious-foundation&show_icons=true&locale=en" alt="cirious-foundation-stats" />
+  <img src="https://cirious-telemetry-stats.vercel.app/api/wakatime?username=cirious_foundation&layout=compact" alt="WakaTime Stats" /><br>
+  <img src="https://cirious-telemetry-stats.vercel.app/api/top-langs?username=cirious-foundation&show_icons=true&locale=en" alt="cirious-foundation-langs" />
+</div>
 
-Connect with the founder or the core development team:
+---
 
-* 📧 **Email:** [cirious.studio@proton.me](mailto:cirious.studio@proton.me)
+<div align="center">
+  <h2>🛠️ Core Stack</h2>
+  <p>Under the founder's leadership, the ecosystem is centered around systems engineering and modern development workflows:</p>
+  <p>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a> 
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> 
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" /> </a> 
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a> 
+  </p>
+</div>
 
-* 🐙 **Founder's GitHub:** [Cirious Foundation](https://github.com/cirious-foundation)
-
-* 🌐 **Organization:** [Cirious Studio](https://github.com/cirious-studio)
-
-* 🌐 **Main Repository:** [Cirious Workspace](https://github.com/cirious-studio/cirious)
+---
+<div align="center">
+  <h2>🌐 Connect with me</h2>
+  
+  <p>
+    <a href="https://dev.to/cirious_foundation" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cirious_foundation" height="30" width="40" /></a>
+    <a href="https://twitter.com/cirious_studio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cirious_studio" height="30" width="40" /></a>
+    <a href="https://medium.com/@cirious.studio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cirious.studio" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/cirious-studio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cirious-studio" height="30" width="40" /></a>
+    <a href="https://discord.gg/pdA7DHzcrK" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+    <a href="https://rss.app/feeds/dtGLEQvlDnWH1kgQ.xml" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="RSS Feed" height="30" width="40" /></a>
+  </p>
+</div>
 
 ---
 
