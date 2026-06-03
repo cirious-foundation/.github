@@ -48,13 +48,11 @@ Exploring low-level techniques, memory organization, and efficient execution mod
 
 ---
 
-<div align="center">
-  <h2>📰 Blog Posts</h2>
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-  <p><i>Stay tuned for upcoming articles!</i></p>
-</div>
+## 📰 Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
 ---
 
 <div align="center">
