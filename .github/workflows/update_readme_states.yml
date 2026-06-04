@@ -46,7 +46,7 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "chore(docs): auto-update README stats cards"
             git pull --rebase origin master
-            git push -m origin master
+            git push origin master
           else
             echo "Nenhuma alteração nas estatísticas. Pulando o commit."
           fi
