@@ -29,7 +29,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=${{ github.repository_owner }}&api_domain=wakatime.com
+          options: username=cirious_foundation&api_domain=wakatime.com
           path: profile/wakatime.svg
           token: ${{ secrets.WAKATIME_API_KEY }}
           
