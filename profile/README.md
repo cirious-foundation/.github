@@ -60,8 +60,8 @@ Exploring low-level techniques, memory organization, and efficient execution mod
   <h2>📊 Ecosystem Statistics</h2>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cirious-foundation&" alt="cirious-foundation-streak" />
-  <img src="./profile/stats.svg" alt="cirious-foundation-stats" />
-  <img src="./profile/wakatime.svg" alt="WakaTime Stats" /><br>
+  <img src="https://github.com/cirious-foundation/.github/blob/master/profile/stats.svg" alt="cirious-foundation-stats" />
+  <img src="https://github.com/cirious-foundation/.github/blob/master/profile/wakatime.svg" alt="WakaTime Stats" /><br>
   <img src="https://cirious-telemetry-stats.vercel.app/api/top-langs?username=cirious-foundation&show_icons=true&locale=en" alt="cirious-foundation-langs" />
 </div>
 
