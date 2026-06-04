@@ -45,7 +45,8 @@ jobs:
           # Condicional segura: Só executa o commit se houver alterações reais no SVG
           if ! git diff --staged --quiet; then
             git commit -m "chore(docs): auto-update README stats cards"
-            git push
+            git pull --rebase origin master
+            git push -m origin master
           else
             echo "Nenhuma alteração nas estatísticas. Pulando o commit."
           fi
